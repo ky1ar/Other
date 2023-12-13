@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Steps to run the app
 
 ```bash
