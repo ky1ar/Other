@@ -31,10 +31,3 @@ Use Java 17 - compatible with the latest Spring Boot versions
 ## Swagger UI
 Access Swagger UI at: http://localhost:8080/doc/swagger-ui/index.html
 
-
-
-
-
-=======
-# reto
->>>>>>> 77797b9971926b8360d16cc35fbccb17ce8ad473
